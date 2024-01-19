@@ -45,15 +45,6 @@
   html {
     font-size: 43.75%;
   }
-  .stats__imgbox {
-    background-color: var(--Soft-violet);
-    background-image: url(./images/image-header-mobile.jpg);
-    background-size: cover;
-    background-blend-mode: multiply;
-    background-position: center;
-    width: 100%;
-    height: 100%;
-  }
 }
 
 /**************************/
