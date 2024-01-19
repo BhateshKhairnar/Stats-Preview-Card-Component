@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-zKRaGFhIui](https://www.frontendmentor.io/solutions/stats-preview-card-component-zKRaGFhIui)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://bhateshkhairnar.github.io/Stats-Preview-Card-Component/](https://bhateshkhairnar.github.io/Stats-Preview-Card-Component/)
 
 ## My process
 
