@@ -44,7 +44,7 @@
   }
   .stats__imgbox {
     background-color: var(--Soft-violet);
-    background-image: url(./06-Challenge/images/image-header-mobile.jpg);
+    background-image: url(./images/image-header-mobile.jpg);
     background-size: cover;
     background-blend-mode: multiply;
     background-position: center;
@@ -73,7 +73,7 @@
 
   .stats__imgbox {
     background-color: var(--Soft-violet);
-    background-image: url(./06-Challenge/images/image-header-mobile.jpg);
+    background-image: url(./images/image-header-mobile.jpg);
     background-size: cover;
     background-blend-mode: multiply;
     background-position: center;
