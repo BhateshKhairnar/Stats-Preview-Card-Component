@@ -47,7 +47,6 @@
 }
 html {
   font-size: 62.5%;
-  /* overflow-x: hidden; */
 }
 body {
   font-family: sans-serif;
@@ -82,13 +81,7 @@ body {
 }
 
 .stats__textbox {
-  padding: 8rem;
-}
-
-.stats__textbox__content {
-  display: grid;
-  grid-template-rows: 1fr 12rem;
-  grid-gap: 2.5rem;
+  padding: 7rem;
 }
 
 .stats__heading {
@@ -97,6 +90,8 @@ body {
   font-weight: var(--large);
   line-height: 1.2;
   font-family: "Inter";
+
+  margin-bottom: 2.4rem;
 }
 
 .stats__heading span {
@@ -106,11 +101,11 @@ body {
 
 .stats__text {
   color: var(--Slightly-transparent-white-stat);
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   font-weight: var(--semi-large);
   line-height: 1.8;
   font-family: "Inter", sans-serif;
-  text-align: -webkit-match-parent;
+  margin-bottom: 4.8rem;
 }
 
 .stats__3__boxes {
@@ -147,6 +142,5 @@ body {
   background-image: url(./images/image-header-desktop.jpg);
   background-size: cover;
   background-blend-mode: multiply;
-  display: block;
   width: 100%;
 }
