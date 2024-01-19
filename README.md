@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-
+![b](https://github.com/BhateshKhairnar/Stats-Preview-Card-Component/assets/111328681/50d1a923-8c11-49ff-9740-c0e59b24d300)
 
 
 ### Links
