@@ -5,6 +5,9 @@
   html {
     font-size: 59.37%;
   }
+  .container__stats {
+    width: 80%;
+  }
 }
 
 /**************************/
@@ -27,6 +30,9 @@
   html {
     font-size: 50%;
   }
+  .container__stats {
+    width: 90%;
+  }
   .stats__imgbox {
     background-position: center center;
   }
@@ -41,7 +47,7 @@
   }
   .stats__imgbox {
     background-color: var(--Soft-violet);
-    background-image: url(./images/image-header-mobile.jpg);
+    background-image: url(./06-Challenge/images/image-header-mobile.jpg);
     background-size: cover;
     background-blend-mode: multiply;
     background-position: center;
@@ -70,7 +76,7 @@
 
   .stats__imgbox {
     background-color: var(--Soft-violet);
-    background-image: url(./images/image-header-mobile.jpg);
+    background-image: url(./06-Challenge/images/image-header-mobile.jpg);
     background-size: cover;
     background-blend-mode: multiply;
     background-position: center;
